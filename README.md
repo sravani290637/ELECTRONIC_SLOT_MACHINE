@@ -29,8 +29,9 @@ clock frequency control, microcontroller interfacing, and embedded system progra
 5. Payoff logic evaluates winning combinations.
 6. Results are displayed on a 16×2 LCD module.
    
-![ESM](images/Transmitter_Architecture.png)
+![ESM1](images/esm1.png)
 
+![ESM2](images/esm2.png)
 ## Hardware Components
 
 * Arduino Mega 2560
